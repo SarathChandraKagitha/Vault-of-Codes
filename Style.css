@@ -1,0 +1,90 @@
+body {
+  font-family: sans-serif;
+}
+header {
+  background-color: #f8faf7;
+  color: #04011d;
+  padding: 10px 0;
+}
+h2{
+  font-family: 'Lucida Calligraphy';
+  color: #11085d;
+}
+
+h1 {
+  margin: 0;
+}
+h3{
+    font-family: 'Viner Hand ITC';
+    color:teal;
+}
+nav {
+  margin-left: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+section h2 {
+  margin-top: 0;
+}
+
+section li img {
+  font-family: fantasy;
+  width: 200px; /* Adjust as needed */
+  height: 200px; /* Adjust as needed */
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+li h3 {
+  margin-top: 0;
+}
+
+li p {
+  font-size: 14px;
+}
+
+li a {
+  background-color: #270980;
+  font-family: 'brush script MT';
+  text-decoration: none;
+  color: rgb(205, 205, 217);
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
+
+table{
+    text-align: center;
+    align-content: center;
+    border-color: rgb(16, 22, 74);
+    margin: auto;
+}
+th{
+    font-family: 'Brush script MT' ;
+    color:rgb(128, 141, 29)
+}
+td{
+    font-family: Times New Roman;
+}
